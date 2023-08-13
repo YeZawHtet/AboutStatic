@@ -1,0 +1,15 @@
+D:\OJT\BackEnd Training\C# Examples\AboutStatic\bin\Debug\net6.0\AboutStatic.exe
+D:\OJT\BackEnd Training\C# Examples\AboutStatic\bin\Debug\net6.0\AboutStatic.deps.json
+D:\OJT\BackEnd Training\C# Examples\AboutStatic\bin\Debug\net6.0\AboutStatic.runtimeconfig.json
+D:\OJT\BackEnd Training\C# Examples\AboutStatic\bin\Debug\net6.0\AboutStatic.dll
+D:\OJT\BackEnd Training\C# Examples\AboutStatic\bin\Debug\net6.0\AboutStatic.pdb
+D:\OJT\BackEnd Training\C# Examples\AboutStatic\obj\Debug\net6.0\AboutStatic.csproj.AssemblyReference.cache
+D:\OJT\BackEnd Training\C# Examples\AboutStatic\obj\Debug\net6.0\AboutStatic.GeneratedMSBuildEditorConfig.editorconfig
+D:\OJT\BackEnd Training\C# Examples\AboutStatic\obj\Debug\net6.0\AboutStatic.AssemblyInfoInputs.cache
+D:\OJT\BackEnd Training\C# Examples\AboutStatic\obj\Debug\net6.0\AboutStatic.AssemblyInfo.cs
+D:\OJT\BackEnd Training\C# Examples\AboutStatic\obj\Debug\net6.0\AboutStatic.csproj.CoreCompileInputs.cache
+D:\OJT\BackEnd Training\C# Examples\AboutStatic\obj\Debug\net6.0\AboutStatic.dll
+D:\OJT\BackEnd Training\C# Examples\AboutStatic\obj\Debug\net6.0\refint\AboutStatic.dll
+D:\OJT\BackEnd Training\C# Examples\AboutStatic\obj\Debug\net6.0\AboutStatic.pdb
+D:\OJT\BackEnd Training\C# Examples\AboutStatic\obj\Debug\net6.0\AboutStatic.genruntimeconfig.cache
+D:\OJT\BackEnd Training\C# Examples\AboutStatic\obj\Debug\net6.0\ref\AboutStatic.dll
